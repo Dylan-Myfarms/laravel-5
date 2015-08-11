@@ -2,7 +2,7 @@
 
 Setup a project using various technologies to get started with laravel 5
 
-Technologies -
+*Technologies* -
   * [Laravel 5] (http://www.laravel.com) - PHP MVC framework
   * [Jquery] (http://jquery.com) - Javascript library
   * [Mysql] (http://mysql.com) - Relational Database
